@@ -51,7 +51,8 @@ https://docs.aiogram.dev/en/latest/quick_start.html#summary
 ```
 # Troubleshooting
 ```
-If it's not giving you a response that means you might have used 3 responses/min quota so wait for a while then ask your query again.
+If it's not giving you a response that means you might have used 3 responses/min quota
+ so wait for a while then ask your query again.
 ```
 # Contact
 ```
