@@ -1,6 +1,8 @@
 # Telegram_bot_with_chatgpt
 ```
-Hey, This is a Telegram bot powered by ChatGPT. It is made using a echo bot which echoes the responses of chatGPT in Telegram chat.
+Hey, This is a Telegram bot powered by ChatGPT.
+ It is made using a echo bot which echoes the responses
+ of chatGPT in Telegram chat.
 ```
 # Getting started
 Activating Environment
